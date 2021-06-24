@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">YSpending</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_overview">Overview</string>
+    <string name="spending">Spending…</string>
+    <string name="price">Price…</string>
+    <string name="save">SAVE</string>
+    <string name="saved">Saved</string>
+    <string name="edit_summary_title">Summary</string>
+    <string name="reminder">Reminder</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="notification_content">Hey, how do you feeling today? Click me to write now.</string>
+    <string name="dialog_detail">Detail</string>
+    <string name="confirm_cancel">Cancel</string>
+    <string name="confirm_ok">Ok</string>
+    <string name="total">Total: %s</string>
+    <string name="confirm_delete">Are you sure? It will not be restored after deleted.</string>
+</resources>

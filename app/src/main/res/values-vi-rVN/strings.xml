@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YSpending</string>
+    <string name="bottom_navigation_home">Trang chủ</string>
+    <string name="bottom_navigation_overview">Tổng quan</string>
+    <string name="spending">Chi tiêu…</string>
+    <string name="price">Giá…</string>
+    <string name="save">LƯU</string>
+    <string name="saved">Đã lưu</string>
+    <string name="edit_summary_title">Tổng hợp</string>
+    <string name="reminder">Nhắc nhở</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="notification_content">Êk, hôm nay thế nào rồi? Bấm vào đây để viết nhé.</string>
+    <string name="dialog_detail">Chi tiết</string>
+    <string name="confirm_cancel">Huỷ</string>
+    <string name="confirm_ok">Đồng ý</string>
+    <string name="total">Tổng chi tiêu: %s</string>
+    <string name="confirm_delete">Bạn chắc chứ? Sẽ không thể khôi phục lại sau khi xoá.</string>
+</resources>

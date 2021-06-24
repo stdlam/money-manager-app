@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Defaultscreen-->
+<dimen name="activity_horizontal_margin">12.0dp</dimen>
+<dimen name="activity_vertical_margin">12.0dp</dimen>
+<dimen name="dp1">0.75dp</dimen>
+<dimen name="dp3">2.25dp</dimen>
+<dimen name="dp6">4.5dp</dimen>
+<dimen name="dp8">6.0dp</dimen>
+<dimen name="dp20">15.0dp</dimen>
+<dimen name="dp30">22.5dp</dimen>
+<dimen name="dp40">30.0dp</dimen>
+<dimen name="dp80">60.0dp</dimen>
+<dimen name="dp60">45.0dp</dimen>
+<dimen name="dp100">75.0dp</dimen>
+<dimen name="sp110">82.5sp</dimen>
+<dimen name="dp120">90.0dp</dimen>
+<dimen name="sp120">90.0sp</dimen>
+<dimen name="dp150">112.5dp</dimen>
+<dimen name="dp180">135.0dp</dimen>
+<dimen name="dp50">37.5dp</dimen>
+<dimen name="sp20">15.0sp</dimen>
+<dimen name="dp10">7.5dp</dimen>
+<dimen name="dp200">150.0dp</dimen>
+<dimen name="dp210">157.5dp</dimen>
+<dimen name="dp220">165.0dp</dimen>
+<dimen name="dp250">187.5dp</dimen>
+<dimen name="dp260">195.0dp</dimen>
+<dimen name="dp280">210.0dp</dimen>
+<dimen name="dp300">225.0dp</dimen>
+<dimen name="dp320">240.0dp</dimen>
+<dimen name="dp360">270.0dp</dimen>
+<dimen name="dp380">270.0dp</dimen>
+<dimen name="dp350">262.5dp</dimen>
+<dimen name="dp400">300.0dp</dimen>
+<dimen name="dp420">315.0dp</dimen>
+<dimen name="dp450">337.5dp</dimen>
+<dimen name="dp600">450.0dp</dimen>
+</resources>
